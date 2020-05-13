@@ -1,0 +1,4 @@
+[1] Pretrained Embedding Layer	https://machinelearningmastery.com/use-word-embedding-layers-deep-learning-keras/
+[2] Predicting output https://towardsdatascience.com/exploring-the-next-word-predictor-5e22aeb85d8f 
+[3] Shalini Ghosh, Oriol Vinyals, Brian Strope, Scott Roy, Tom Deana and Larry Heck. Contextual LSTM (CLSTM) models for Large scale NLP task https://arxiv.org/pdf/1602.06291.pdf
+[4] LSTM with multiple features reference https://machinelearningmastery.com/reshape-input-data-long-short-term-memory-networks-keras/
